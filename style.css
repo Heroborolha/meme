@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    width: auto;
+}
+
+p {
+    background-color: whitesmoke;
+    width: auto;
+    height: 0px;
+}
